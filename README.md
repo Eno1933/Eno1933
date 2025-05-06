@@ -1,10 +1,7 @@
 
 <h2 align="left">Hi 👋! My name is Reno Susanto and I'm a Programmer, from Indonesia</h2>
 
----
-
-## 💫 About Me:
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbThqbnRsaHZ2MDM4dHg5eXF3enRmNTFxaWhlemZ3Nmhrdnc4eDRpZSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/DDr3u60PjEFlWlitei/giphy.gif"  />
 
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
