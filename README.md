@@ -43,8 +43,8 @@ Saya percaya:
 
 ### 📈 Aktivitas GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=namagithub&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namagithub&layout=compact&theme=github_dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=Eno1933&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eno1933&layout=compact&theme=github_dark)
 
 ---
 
@@ -54,6 +54,6 @@ Saya terbuka untuk **diskusi teknis**, **kolaborasi proyek kecil**, atau **kesem
 
 - 📧 Email: [renos8157@gmail.com@email.com](mailto:renos8157@email.com)
 - 💼 LinkedIn: [linkedin.com/in/namakamu](https://www.linkedin.com/in/reno-susanto-95b554217?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 🌐 Portofolio: [myportfolio](https://myportfolioreno.netlify.app/) *(opsional)*
+- 🌐 Portofolio: [myportfolio](https://myportfolioreno.netlify.app/) 
 
 > Terima kasih sudah mampir! Setiap ⭐ dan 💬 berarti bagi saya. 😊
