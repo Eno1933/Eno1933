@@ -1,25 +1,59 @@
+<!-- Ganti "namagithub" dengan username GitHub-mu -->
+# 👋 Halo, saya Reno Susanto!
 
-<h2 align="left">Hi 👋! My name is Reno Susanto and I'm a Programmer, from Indonesia</h2>
+### 🌱 Junior Full-Stack Developer | Belajar Setiap Hari | Membangun Hal yang Bermanfaat
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbThqbnRsaHZ2MDM4dHg5eXF3enRmNTFxaWhlemZ3Nmhrdnc4eDRpZSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/DDr3u60PjEFlWlitei/giphy.gif"  />
+Saya sedang dalam perjalanan menjadi developer full-stack yang kompeten.  
+Saat ini fokus memperdalam **frontend yang responsif** dan **backend yang andal**, sambil membangun proyek nyata yang bisa membantu orang.
 
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/reno-susanto-95b554217) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:renos8157@gmail.com) 
-
-## 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Eno1933&theme=calm&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Eno1933&theme=calm&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eno1933&theme=calm&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-[![](https://visitcount.itsvg.in/api?id=Eno1933&icon=0&color=0)](https://visitcount.itsvg.in)
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+Saya percaya:  
+> _"Kode yang baik bukan hanya berjalan — tapi juga mudah dipahami, dijaga, dan memberi nilai."_
 
 ---
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### 🛠️ Tech Stack
+
+**Frontend**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+
+**Backend & Lainnya**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+> 🔍 Sedang eksplorasi: TypeScript, RESTful API design, dan deployment (Vercel, Render, Railway)
+
+---
+
+### 🚀 Proyek Terbaru
+
+- 🔥 **[Nama Proyek 1]** – Aplikasi todo dengan autentikasi (React + Node.js)  
+  [Lihat Demo](https://...) | [Kode Sumber](https://github.com/...)
+
+- 🌐 **[Nama Proyek 2]** – Website portofolio interaktif  
+  [Lihat Demo](https://...) | [Kode Sumber](https://github.com/...)
+
+> 💡 Semua proyek saya open-source — silakan lihat repositori saya!
+
+---
+
+### 📈 Aktivitas GitHub
+
+![Stats](https://github-readme-stats.vercel.app/api?username=namagithub&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namagithub&layout=compact&theme=github_dark)
+
+---
+
+### 📬 Mari Terhubung!
+
+Saya terbuka untuk **diskusi teknis**, **kolaborasi proyek kecil**, atau **kesempatan magang/entry-level**!
+
+- 📧 Email: [renos8157@gmail.com@email.com](mailto:renos8157@email.com)
+- 💼 LinkedIn: [linkedin.com/in/namakamu](https://www.linkedin.com/in/reno-susanto-95b554217?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 🌐 Portofolio: [myportfolio](https://myportfolioreno.netlify.app/) *(opsional)*
+
+> Terima kasih sudah mampir! Setiap ⭐ dan 💬 berarti bagi saya. 😊
