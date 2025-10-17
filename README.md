@@ -13,17 +13,29 @@ Saya percaya:
 
 ### 🛠️ Tech Stack
 
-**Frontend**  
+## 🧠 Skills
+
+### 🎨 Frontend Developer  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![NuxtJS](https://img.shields.io/badge/-NuxtJS-00DC82?style=flat&logo=nuxtdotjs&logoColor=white)
 
-**Backend & Lainnya**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+**Levels:**  
+🟢 HTML (Advanced) 🟠 CSS (Intermediate) 🟠 JavaScript (Intermediate) 🔵 Tailwind (Basic) 🔵 NuxtJS (Basic)
+
+---
+
+### ⚙️ Backend Developer  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Slim PHP](https://img.shields.io/badge/-Slim%20PHP-4A4A55?style=flat&logo=php&logoColor=white)
+
+**Levels:**  
+🟢 PHP (Advanced) 🟠 Laravel (Intermediate) 🟠 MySQL (Intermediate) 🔵 Slim PHP (Basic)
+
 
 > 🔍 Sedang eksplorasi: TypeScript, RESTful API design, dan deployment (Vercel, Render, Railway)
 
@@ -54,6 +66,6 @@ Saya terbuka untuk **diskusi teknis**, **kolaborasi proyek kecil**, atau **kesem
 
 - 📧 Email: [renos8157@gmail.com@email.com](mailto:renos8157@email.com)
 - 💼 LinkedIn: [linkedin.com/in/namakamu](https://www.linkedin.com/in/reno-susanto-95b554217?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 🌐 Portofolio: [myportfolio](https://myportfolioreno.netlify.app/) 
+- 🌐 Portofolio: [myportfolio](https://portfolioreno.netlify.app/) 
 
 > Terima kasih sudah mampir! Setiap ⭐ dan 💬 berarti bagi saya. 😊
