@@ -18,7 +18,6 @@
 
 Lulusan SMK Negeri 11 Bandung, jurusan Rekayasa Perangkat Lunak, dengan minat kuat di bidang pengembangan web. Terbiasa membangun aplikasi berbasis **Laravel**, **PHP**, dan **MySQL**, serta menggunakan **Git** untuk kolaborasi tim. Senang mempelajari hal-hal baru dan terbuka terhadap peluang sebagai **Junior Programmer**.
 
-<br>
 
 ## 🛠️ Tech Stack
 
