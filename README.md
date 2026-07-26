@@ -2,7 +2,7 @@
 
 # Halo, saya Reno Susanto 👋
 
-**Lulusan SMK Negeri 11 Bandung – Rekayasa Perangkat Lunak** · Aspiring Full-Stack Developer
+**Lulusan SMK Negeri 11 Bandung – Rekayasa Perangkat Lunak** · Junior Programmer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logoColor=white)](https://portfolioreno.netlify.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:renos8157@gmail.com)
@@ -13,12 +13,7 @@
 
 ### 👨‍💻 Tentang Saya
 
-Lulusan SMK Negeri 11 Bandung jurusan Rekayasa Perangkat Lunak dengan minat kuat di bidang pengembangan web. Terbiasa membangun aplikasi berbasis **Laravel**, **PHP**, dan **MySQL**, serta menggunakan **Git** untuk kolaborasi tim. Pernah magang sebagai IT Support & Data Entry di SCOLA, dan kini menjalankan jasa pengembangan web independen di bawah brand **Noki Code** sambil aktif mencari peluang sebagai Full-Stack Developer.
-
-- 🔭 Sedang membangun **Reno AI** — web app chat AI berbasis Next.js, Supabase & Gemini API
-- 💼 Menerima proyek pembuatan website lewat **Noki Code**
-- 🌱 Terus memperdalam React Native & pengembangan full-stack
-- 📫 Bisa dihubungi lewat **renos8157@gmail.com**
+Lulusan SMK Negeri 11 Bandung, jurusan Rekayasa Perangkat Lunak, dengan minat kuat di bidang pengembangan web. Terbiasa membangun aplikasi berbasis **Laravel**, **PHP**, dan **MySQL**, serta menggunakan **Git** untuk kolaborasi tim. Senang mempelajari hal-hal baru dan terbuka terhadap peluang sebagai **Junior Programmer**.
 
 ### 🛠️ Tech Stack
 
@@ -38,19 +33,8 @@ Lulusan SMK Negeri 11 Bandung jurusan Rekayasa Perangkat Lunak dengan minat kuat
 
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-### 🚀 Proyek Unggulan
-
-**[Portfolio Web](https://portfolioreno.netlify.app)**
-Website pribadi untuk menampilkan profil, keterampilan, dan proyek. Desain modern dan responsif (mobile-friendly).
-`HTML` `CSS` `JavaScript`
-
-**Convertofy**
-Aplikasi web untuk pengolahan dan konversi file PDF, terinspirasi dari platform seperti iLovePDF.
-`React JS` `TailwindCSS`
-
 ### 📊 GitHub Stats
 
-<!-- Ganti USERNAME di bawah dengan username GitHub kamu -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eno1933&show_icons=true&hide_border=true)
 
 <br>
