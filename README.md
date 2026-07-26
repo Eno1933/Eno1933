@@ -1,71 +1,62 @@
-<!-- Ganti "namagithub" dengan username GitHub-mu -->
-# 👋 Halo, saya Reno Susanto!
+<div align="center">
 
-### 🌱 Junior Full-Stack Developer | Belajar Setiap Hari | Membangun Hal yang Bermanfaat
+# Halo, saya Reno Susanto 👋
 
-Saya sedang dalam perjalanan menjadi developer full-stack yang kompeten.  
-Saat ini fokus memperdalam **frontend yang responsif** dan **backend yang andal**, sambil membangun proyek nyata yang bisa membantu orang.
+**Lulusan SMK Negeri 11 Bandung – Rekayasa Perangkat Lunak** · Aspiring Full-Stack Developer
 
-Saya percaya:  
-> _"Kode yang baik bukan hanya berjalan — tapi juga mudah dipahami, dijaga, dan memberi nilai."_
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logoColor=white)](https://portfolioreno.netlify.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:renos8157@gmail.com)
 
----
+</div>
+
+<br>
+
+### 👨‍💻 Tentang Saya
+
+Lulusan SMK Negeri 11 Bandung jurusan Rekayasa Perangkat Lunak dengan minat kuat di bidang pengembangan web. Terbiasa membangun aplikasi berbasis **Laravel**, **PHP**, dan **MySQL**, serta menggunakan **Git** untuk kolaborasi tim. Pernah magang sebagai IT Support & Data Entry di SCOLA, dan kini menjalankan jasa pengembangan web independen di bawah brand **Noki Code** sambil aktif mencari peluang sebagai Full-Stack Developer.
+
+- 🔭 Sedang membangun **Reno AI** — web app chat AI berbasis Next.js, Supabase & Gemini API
+- 💼 Menerima proyek pembuatan website lewat **Noki Code**
+- 🌱 Terus memperdalam React Native & pengembangan full-stack
+- 📫 Bisa dihubungi lewat **renos8157@gmail.com**
 
 ### 🛠️ Tech Stack
 
-## 🧠 Skills
+**Frontend**
 
-### 🎨 Frontend Developer  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![NuxtJS](https://img.shields.io/badge/-NuxtJS-00DC82?style=flat&logo=nuxtdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-**Levels:**  
-🟢 HTML (Advanced) 🟠 CSS (Intermediate) 🟠 JavaScript (Intermediate) 🔵 Tailwind (Basic) 🔵 NuxtJS (Basic)
+**Backend & Database**
 
----
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### ⚙️ Backend Developer  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Slim PHP](https://img.shields.io/badge/-Slim%20PHP-4A4A55?style=flat&logo=php&logoColor=white)
+**Tools**
 
-**Levels:**  
-🟢 PHP (Advanced) 🟠 Laravel (Intermediate) 🟠 MySQL (Intermediate) 🔵 Slim PHP (Basic)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
+**Mobile**
 
-> 🔍 Sedang eksplorasi: TypeScript, RESTful API design, dan deployment (Vercel, Render, Railway)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
----
+### 🚀 Proyek Unggulan
 
-### 🚀 Proyek Terbaru
+**[Portfolio Web](https://portfolioreno.netlify.app)**
+Website pribadi untuk menampilkan profil, keterampilan, dan proyek. Desain modern dan responsif (mobile-friendly).
+`HTML` `CSS` `JavaScript`
 
-- 🔥 **[Nama Proyek 1]** – Aplikasi todo dengan autentikasi (React + Node.js)  
-  [Lihat Demo](https://...) | [Kode Sumber](https://github.com/...)
+**Convertofy**
+Aplikasi web untuk pengolahan dan konversi file PDF, terinspirasi dari platform seperti iLovePDF.
+`React JS` `TailwindCSS`
 
-- 🌐 **[Nama Proyek 2]** – Website portofolio interaktif  
-  [Lihat Demo](https://...) | [Kode Sumber](https://github.com/...)
+### 📊 GitHub Stats
 
-> 💡 Semua proyek saya open-source — silakan lihat repositori saya!
+<!-- Ganti USERNAME di bawah dengan username GitHub kamu -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eno1933&show_icons=true&hide_border=true)
 
----
+<br>
 
-### 📈 Aktivitas GitHub
+<div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Eno1933&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eno1933&layout=compact&theme=github_dark)
+Terbuka untuk peluang kerja maupun kolaborasi proyek 🤝
 
----
-
-### 📬 Mari Terhubung!
-
-Saya terbuka untuk **diskusi teknis**, **kolaborasi proyek kecil**, atau **kesempatan magang/entry-level**!
-
-- 📧 Email: [renos8157@gmail.com@email.com](mailto:renos8157@email.com)
-- 💼 LinkedIn: [linkedin.com/in/namakamu](https://www.linkedin.com/in/reno-susanto-95b554217?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 🌐 Portofolio: [myportfolio](https://portfolioreno.netlify.app/) 
-
-> Terima kasih sudah mampir! Setiap ⭐ dan 💬 berarti bagi saya. 😊
+</div>
